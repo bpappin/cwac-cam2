@@ -9,6 +9,8 @@
 	<string name="title_confirm">Show confirmation screen</string>
 	<string name="title_debug">Enable debug mode</string>
 	<string name="take_picture">Take picture</string>
+	<string name="mode_video">Video mode</string>
+	<string name="mode_photo">Photo mode</string>
 	<string name="title_update_media_store">Update MediaStore</string>
 	<string name="title_force_classic">Force classic API</string>
 	<string name="title_video">Capture video</string>

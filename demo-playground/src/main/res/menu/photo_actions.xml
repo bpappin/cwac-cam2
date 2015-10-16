@@ -6,4 +6,10 @@
     android:icon="@drawable/ic_camera_white_24dp"
     android:showAsAction="always"
     android:title="@string/take_picture"/>
+
+  <item
+      android:id="@+id/switch_video"
+      android:icon="@android:drawable/ic_menu_slideshow"
+      android:showAsAction="always"
+      android:title="@string/mode_video"/>
 </menu>
